@@ -56,3 +56,4 @@ tags: [english, pattern, 100, 2]
 ### 14. 그녀한테 전화하지 않는게 좋을거 같네.
 
     I guess I better not call her.
+
